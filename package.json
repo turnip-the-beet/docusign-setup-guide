@@ -1,6 +1,7 @@
 {
   "name": "docusign-setup-guide",
   "version": "1.0.0",
+  "homepage": "https://turnip-the-beet.github.io/docusign-setup-guide",
   "description": "Interactive guide for DocuSign account setup and MFA enablement",
   "scripts": {
     "start": "react-scripts start",
